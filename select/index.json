@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Deep In Love",
+  "base_artist": "Noahh",
+  "createdAt": "2026-02-11T10:27:48.978170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deep In Love",
+      "artist": "Holly Johnson",
+      "has_synced": true,
+      "path": "select/01_Deep_In_Love_Holly_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bury Me Deep In Love",
+      "artist": "The Triffids",
+      "has_synced": false,
+      "path": "select/02_Bury_Me_Deep_In_Love_The_Triffids.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Deep In Love With You",
+      "artist": "White Lion",
+      "has_synced": false,
+      "path": "select/03_Deep_In_Love_With_You_White_Lion.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Knee Deep In Love",
+      "artist": "Klaatu",
+      "has_synced": true,
+      "path": "select/04_Knee_Deep_In_Love_Klaatu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Deep in Love",
+      "artist": "Deniece Williams",
+      "has_synced": false,
+      "path": "select/05_So_Deep_in_Love_Deniece_Williams.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bury Me Deep in Love",
+      "artist": "Kylie Minogue & Jimmy Little",
+      "has_synced": false,
+      "path": "select/06_Bury_Me_Deep_in_Love_Kylie_Minogue_&_Jimmy_Little.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deep in Love",
+      "artist": "Tom Boxer feat. Morena & J Warner",
+      "has_synced": true,
+      "path": "select/07_Deep_in_Love_Tom_Boxer_feat._Morena_&_J_Warner.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deep in Love",
+      "artist": "Tom Boxer (ft. Morena & JWarner)",
+      "has_synced": true,
+      "path": "select/08_Deep_in_Love_Tom_Boxer_(ft._Morena_&_JWarner).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deep In Love (feat. Eric D. Johnson, Josh Kaufman, & Anais Mitchell)",
+      "artist": "Bonny Light Horseman feat. Eric D. Johnson, Josh Kaufman & Anaïs Mitchell",
+      "has_synced": true,
+      "path": "select/09_Deep_In_Love_(feat._Eric_D._Johnson,_Josh_Kaufman,_&_Anais_Mitchell)_Bonny_Light_Horseman_feat._Eric_D._Johnson,_Josh_Kaufman_&_Anaïs_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Deep In Love",
+      "artist": "Bonny Light Horseman",
+      "has_synced": true,
+      "path": "select/10_Deep_In_Love_Bonny_Light_Horseman.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Maid That's Deep In Love",
+      "artist": "Pentangle",
+      "has_synced": false,
+      "path": "select/11_A_Maid_That's_Deep_In_Love_Pentangle.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Maid That's Deep in Love",
+      "artist": "The Pentangle",
+      "has_synced": false,
+      "path": "select/12_A_Maid_That's_Deep_in_Love_The_Pentangle.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Deep in love",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/13_Deep_in_love_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deep in Love (radio edit)",
+      "artist": "Tom Boxer & Morena feat. J Walker",
+      "has_synced": false,
+      "path": "select/14_Deep_in_Love_(radio_edit)_Tom_Boxer_&_Morena_feat._J_Walker.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deep In Love",
+      "artist": "Noahh, kaido, bixby",
+      "has_synced": false,
+      "path": "select/pl_01_Deep_In_Love_Noahh,_kaido,_bixby.txt"
+    }
+  ]
+}
