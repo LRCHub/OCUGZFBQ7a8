@@ -1,0 +1,73 @@
+# Noahh – Deep In Love
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+why do leaves fall
+after i pick em up?
+after hours with sunsets cant get enough
+you pushesd me off of the swings think i fell in
+love
+but it only ever started cuz of alcohol
+i think you never wanna see me again
+just sucks cuz I know we will never be friends
+thet’d always tell me i’m too deep in love
+think i believe em cuz im missing sumn
+december always got me thinking that I need you
+i always swip up on your story like I have to
+I think im falling
+do you think you could stop it?
+(Wow wow wow)
+it kinda sucks that i think we could never be
+cuz if not than you’d be to perfect me
+i cant imagine how you felt but i’m not sorry
+i sorta feel the same but dont say thats beyond
+me
+i cant talk
+about you i wont
+bring that up
+i feel like
+i cant love you
+but its sumn i want to
+its like feeling i can’t get out
+its like a feeling i can’t get out inside
+you and i
+you moved out of state there’s no need to run
+away
+im thinking it’s better on my own
+im tryna find my way out of the darkness
+imma be an artist
+imma do it on my own
+tell me what its like?
+does it feel right?
+how to feel alive
+in the daylight?
+i don’t wanna try
+it wasn’t too late for us
+in my head but it’s too late
+i see through your lies
+facing back i tried,
+i can’t let go
+how could i survieve?
+falling i cant stop
+i think you never wanna see me again
+just sucks cuz i know we will never be friends
+thet’d always tell me i’m too deep in love
+think i believe em cuz im missing sumn
+december always got me thinking that i need you
+i always swip up on your story like i have to
+i think im falling
+do you think you could stop it?
+(Wow wow wow)
+it kinda sucks that i think we could never be
+cuz if not than you’d be to perfect me
+i cant imagine how you felt but i’m not sorry
+i sorta feel the same but dont say thats beyond
+me
+i cant talk
+about you i wont
+bring that up
+i feel like
+i cant love you
+but its sumn i want to
+```
